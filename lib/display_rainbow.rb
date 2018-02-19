@@ -1,4 +1,4 @@
 def display_rainbow (colors)
   colors = ("R: red, O: orange, Y: yellow, G: green, B: blue, I: indigo, V: violet")
-  puts "#{R[0]}"
+  puts "#{[0]}"
 end
